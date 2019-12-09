@@ -5,4 +5,3 @@ Thus, the demon became a teenager again in search of answers to who he is.
 
 Your choices will influence your destiny and the destiny of other players
 
-Translated with www.DeepL.com/Translator (free version)

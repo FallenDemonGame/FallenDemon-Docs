@@ -1,0 +1,21 @@
+{
+  "name": "fallendemon",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: https://vuepress.vuejs.org/hero.png\r actionText: Wiki →\r actionLink: /guide/\r footer: MIT Licensed | Copyright © 2019-present Fallen Demon\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallenDemonGame/FallenDemon-Docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FallenDemonGame/FallenDemon-Docs/issues"
+  },
+  "homepage": "https://github.com/FallenDemonGame/FallenDemon-Docs#readme"
+}

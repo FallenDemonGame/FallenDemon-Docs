@@ -1,7 +1,6 @@
 module.exports = {
     title: 'Fallen Demon',
     logo: 'https://vuepress.vuejs.org/hero.png',
-    color: "",
     description: 'An evolutive Hack\'n Slash inspired by the dragon ball universe',
     themeConfig: {
         nav: [{
@@ -21,11 +20,11 @@ module.exports = {
             '/guide/': [
                 '', 
                 {
-                    title: 'Actes',
+                    title: 'Act',
                     collapsable: false,
                     children: [
-                        'actes/',
-                        'actes/ActesOne',
+                        'act/',
+                        'act/ActOne',
                     ]
                 },
                 {

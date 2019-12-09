@@ -1,4 +1,4 @@
-# Acte 1 
+# Act 1 
 
 During act 1, you discover the first game mechanisms, the different quests are designed to help you understand the basics of the game and gain your first skills. 
 
